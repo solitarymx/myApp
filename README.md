@@ -13,6 +13,7 @@ div = display:none
 div = display:none
 
 Doesn't reappear after first time use.
+Note: If I completely erase the password entry and start typing again, the "eye" icon showing. This means that the icon will appear if the entry is completely blank and changes when the first character is entered. But in this case we have to delete the entry and rewrite it.
 
 Screen Record -> 
 ![reveal-issue-ionic](https://user-images.githubusercontent.com/3239339/100489172-c0037300-3123-11eb-9608-69421c58aea8.gif)
